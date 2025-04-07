@@ -41,5 +41,5 @@ Make sure you have Python installed with the following packages:
 
 pip install pandas
 
-🧠 Conclusion
+### 🧠 Conclusion
 This project successfully demonstrates the importance of thorough data cleaning and preprocessing in real-world datasets. By standardizing the structure, correcting inconsistencies, and engineering useful features like waiting_days, the dataset is now ready for further exploration, visualization, and predictive modeling. Clean data not only enhances the quality of insights but also ensures more reliable outcomes in any downstream machine learning or statistical analysis.
