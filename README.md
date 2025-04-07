@@ -1,7 +1,3 @@
-
----
-
-```markdown
 # 📊 Medical Appointment No-Shows — Data Cleaning & Preprocessing
 
 This project focuses on cleaning and preprocessing the **Medical Appointment No-Shows** dataset, which is commonly used for no-show prediction tasks in healthcare analytics.
@@ -49,7 +45,7 @@ pip install pandas
 ```
 
 ### 🧠 Conclusion
-
+---
 This project successfully demonstrates the importance of thorough data cleaning and preprocessing in real-world datasets. By standardizing the structure, correcting inconsistencies, and engineering useful features like `waiting_days`, the dataset is now ready for further exploration, visualization, and predictive modeling. Clean data not only enhances the quality of insights but also ensures more reliable outcomes in any downstream machine learning or statistical analysis.
 
 ### Run the Script
@@ -68,4 +64,4 @@ Feel free to fork or clone this repo and build upon it for your own data analysi
 
 ---
 
-Let me know if you want this as a downloadable `.md` file or if you'd like to generate a GitHub repo structure too!
+
